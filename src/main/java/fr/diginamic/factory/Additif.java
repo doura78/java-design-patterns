@@ -1,6 +1,4 @@
-package fr.diginamic.factory.entities;
-
-import fr.diginamic.factory.enums.Unite;
+package fr.diginamic.factory;
 
 public class Additif extends Element {
     public Additif(String nom, Double valeur, Unite unite) {
